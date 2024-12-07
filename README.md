@@ -1,5 +1,5 @@
 
-# Stock Trend Prediction Based on Social Media Articles
+# Stock Trend Prediction using Sentiment Analysis
 
 This is a project that uses machine learning and sentiment analysis to predict stock trends based on social media articles, specifically tweets. The goal of this project is to achieve high accuracy in predicting the movement of stock prices based on sentiment analysis of tweets.
 
@@ -42,4 +42,4 @@ If you have any feedback, please reach out to me at adityasachan6379@gmail.com
 
 
 
-Feel free to **file a new issue** with a respective title and description on the the [Stock trend prediction based on social media articles](https://github.com/AdityaSachan/Stock-Market-Prediction-using-Sentiment-Analysis/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the the [Stock trend prediction using Sentiment Analysis](https://github.com/AdityaSachan/Stock-Market-Prediction-using-Sentiment-Analysis/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
